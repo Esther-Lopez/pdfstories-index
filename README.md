@@ -1,4 +1,4 @@
-# Telegram Index
+# Telegram Index original repo https://github.com/odysseusmax/tg-index
 
 > Python Web App which indexes a telegram channel(or a chat) and serves its files for download.
 
